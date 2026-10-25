@@ -28,7 +28,7 @@ while ($null -ne ($line = $in.ReadLine())) {
       Reply $id ([ordered]@{
         protocolVersion = $v
         capabilities = [ordered]@{ tools = [ordered]@{ listChanged = $false } }
-        serverInfo = [ordered]@{ name = 'contenta-photo-converter'; version = '1.0.4' }
+        serverInfo = [ordered]@{ name = 'contenta-photo-converter'; version = '1.0.5' }
         instructions = 'Contenta Photo Converter is not installed on this computer. Call get_started for what to do.'
       })
     }

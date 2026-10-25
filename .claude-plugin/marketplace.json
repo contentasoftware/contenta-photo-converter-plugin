@@ -10,7 +10,7 @@
       "name": "contenta-photo-converter",
       "source": "./",
       "description": "Contenta Photo Converter on your Windows PC from your AI agent: batch image conversion, resizing, effects, metadata, PDF albums and slideshows for 100+ image formats. Runs locally on your files.",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "tags": [
         "windows",
         "batch",

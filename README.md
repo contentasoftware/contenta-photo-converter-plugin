@@ -1,5 +1,8 @@
 # Contenta Photo Converter plugin
 
+**Windows 10/11 only.** There is no Mac or Linux version: on a Mac or Linux machine the plugin installs, but its
+server cannot start.
+
 Use **Contenta Photo Converter** (the Contenta Converter app) from your AI agent on your Windows PC: batch image conversion, resizing, effects, metadata, PDF albums and slideshows for 100+ image formats. You ask in plain words and the
 agent does the work on files on your computer. It works with any agent that runs local MCP servers: Cursor,
 Claude Code, Codex, VS Code, Windsurf and others.
@@ -16,6 +19,8 @@ Contenta Converter also works without an agent: open it from the Start menu and 
 
 - $129, a one-time purchase. No subscription needed. Prices: https://www.contenta-converter.com/buy.php
 - The free trial has no end date: the first 10 outputs per PC come out clean, later ones carry a trial watermark (PDF albums, merged PDFs and slideshows are always marked on the trial). `contenta status` shows how many clean outputs are left; a batch spends one per file. Nothing stops working; a licence removes the limits.
+- After buying, the licence key arrives by email. Enter it in Contenta Converter's Register page, or run
+  `contenta register <email> <key>` in a terminal. The key does not need to go through the chat.
 
 ## Install
 

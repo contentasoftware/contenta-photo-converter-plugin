@@ -51,7 +51,7 @@ Client-by-client instructions: https://www.npmjs.com/package/@contentasoft/conte
 
 ## What is included
 
-- **MCP server** `contenta-photo-converter` with the tools `convert_image`, `batch_convert`, `ai_transform`, `create_pdf_album`, `create_slideshow`, `merge_pdfs`, `detect_format`, `get_file_info`, `list_formats`, `list_effects`, `read_metadata`, `write_metadata`, `get_license_status`. Each tool
+- **MCP server** `contenta-photo-converter` with the tools `convert_image`, `batch_convert`, `ai_transform`, `create_pdf_album`, `create_slideshow`, `merge_pdfs`, `detect_format`, `get_file_info`, `list_formats`, `list_effects`, `read_metadata`, `write_metadata`, `get_license_status`, `register_license`. Each tool
   says whether it only reads files, writes new files, may overwrite files, or uses the internet.
 - **Skill** `contenta-image-processing`: how and when the agent should use those tools and the `contenta` command line.
 
